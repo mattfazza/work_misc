@@ -1,0 +1,6 @@
+{
+  "name": "Structural Biology Core",
+  "Model": {
+    "Folders": ["Antibody_Validation_Data", "Assay_Protocols", "Assay_Results", "Cell_Lines", "Chemotypes", "Crystal_Structures", "Physical_Clones", "Sequence_Information", "Expression_Data", "Fragment_Screening_Results", "Lab_Notebooks", "Protein", "Protein_Expression_Methods", "TEP"]
+  }
+}
