@@ -1,14 +1,9 @@
 {
-  "Folders": ["Genes", "Project Activities"],
+  "Folders": ["Genes"],
   "Model": {
     "Folders": ["MSN", "SYK", "CD44"],
     "Model": {
-      "Templates": [
-        "Structural Biology Core", 
-        "MedChem Core", 
-        "Assay Core", 
-        "Bioinformatics Core"
-        ]
+      "Folders": ["Structural Biology Core", "Assay Core", "MedChem Core", "Bioinformatics Core"]
     }
   }
 }
